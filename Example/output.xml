@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>  
+<configuration>  
+<connectionStrings>  
+<add name="ConexionAP" connectionString="Data Source=NI- 
+279;Initial Catalog=ni- 
+279.ap.com_BPMS;Trusted_Connection=yes;" 
+providerName="System.Data.SqlClient" />  
+</connectionStrings>  
+<appSettings>  
+<add key="url" value="http://ni-279.ap.com" />  
+</appSettings>  
+</configuration> 
